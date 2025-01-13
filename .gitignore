@@ -1,0 +1,34 @@
+.vercel
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# VitePress
+dist/
+.vitepress/dist/
+.vitepress/cache/
+.vitepress/temp/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Other files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

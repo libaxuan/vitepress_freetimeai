@@ -1,0 +1,121 @@
+:root {
+  --background-light: linear-gradient(135deg, #a8edea, #fed6e3); /* 定义浅色背景渐变 */
+  --background-dark: linear-gradient(135deg, #2c3e50, #4a4a4a); /* 定义深色背景渐变 */
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif; /* 设置全局字体 */
+  background: var(--background-light); /* 设置默认背景为浅色渐变 */
+  margin: 0; /* 去除默认外边距 */
+  transition: background 0.3s; /* 背景颜色变化的过渡效果 */
+}
+
+[data-theme="dark"] body {
+  background: rgba(0, 0, 0, 0.8); /* 黑灰色透明背景 */
+}
+
+.hero {
+  text-align: center; /* 文本居中 */
+  padding: 80px 0; /* 上下内边距 */
+  background: rgba(255, 255, 255, 0.95); /* 半透明白色背景 */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* 添加阴影 */
+  backdrop-filter: blur(8px); /* 背景模糊效果 */
+  margin: 0; /* 去除外边距 */
+}
+
+[data-theme="dark"] .hero {
+  background: rgba(0, 0, 0, 0.7); /* 黑灰色透明背景 */
+}
+
+.hero .name {
+  font-size: 3.5rem; /* 设置字体大小 */
+  color: #2c3e50; /* 字体颜色 */
+  margin: 0 auto; /* 水平居中 */
+}
+
+.hero .text {
+  font-size: 1.75rem; /* 设置字体大小 */
+  color: #34495e; /* 字体颜色 */
+  margin: 0 auto; /* 水平居中 */
+}
+
+.hero .tagline {
+  font-size: 1.25rem; /* 设置字体大小 */
+  color: #7f8c8d; /* 字体颜色 */
+  margin: 0 auto; /* 水平居中 */
+}
+
+.hero .actions a {
+  display: inline-block; /* 行内块元素 */
+  margin: 10px; /* 外边距 */
+  padding: 10px 20px; /* 内边距 */
+  font-size: 1rem; /* 字体大小 */
+  color: #fff; /* 字体颜色 */
+  background-color: #3498db; /* 背景颜色 */
+  border-radius: 5px; /* 圆角 */
+  text-decoration: none; /* 去除下划线 */
+  transition: background-color 0.3s; /* 背景颜色变化的过渡效果 */
+}
+
+.hero .actions a:hover {
+  background-color: #2980b9; /* 悬停时的背景颜色 */
+}
+
+.features {
+  display: flex; /* 使用弹性布局 */
+  justify-content: space-around; /* 子元素均匀分布 */
+  flex-wrap: wrap; /* 允许换行 */
+  padding: 40px 0; /* 上下内边距 */
+}
+
+[data-theme="dark"] .features {
+  background: rgba(0, 0, 0, 0.7); /* Features 区域的黑灰色透明背景 */
+}
+
+footer {
+  background: var(--background-light); /* 使用与首页相同的渐变背景 */
+  color: #333; /* 字体颜色 */
+  text-align: center; /* 文本居中 */
+  padding: 10px 0; /* 减小高度 */
+  width: 100%; /* 占满宽度 */
+  position: fixed; /* 固定在页面底部 */
+  bottom: 0; /* 距离底部为0 */
+  left: 0; /* 距离左侧为0 */
+}
+
+[data-theme="dark"] footer {
+  background: rgba(0, 0, 0, 0.7); /* 黑灰色透明背景 */
+}
+
+.footer-content {
+  max-width: 1200px; /* 最大宽度 */
+  margin: 0 auto; /* 水平居中 */
+  display: flex; /* 使用弹性布局 */
+  justify-content: center; /* 子元素居中 */
+  align-items: center; /* 垂直居中 */
+  flex-wrap: wrap; /* 允许换行 */
+  padding: 0 20px; /* 左右内边距 */
+}
+
+footer nav {
+  display: flex; /* 使用弹性布局 */
+  gap: 15px; /* 子元素间距 */
+}
+
+footer nav a {
+  color: #333; /* 链接颜色 */
+  text-decoration: none; /* 去除下划线 */
+  transition: color 0.3s; /* 颜色变化的过渡效果 */
+}
+
+footer nav a:hover {
+  color: #3498db; /* 悬停时的链接颜色 */
+}
+
+[data-theme="dark"] nav a {
+  color: #fff; /* 链接颜色变为白色 */
+}
+
+[data-theme="dark"] nav a:hover {
+  color: #3498db; /* 悬停时的链接颜色 */
+}
