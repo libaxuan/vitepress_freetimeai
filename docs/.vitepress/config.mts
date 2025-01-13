@@ -32,9 +32,9 @@ export default defineConfig({
         ]
       }
     ],
-    //不显示github
-    // socialLinks: [
-    //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    // ]
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/libaxuan/vitepress_freetimeai' }
+    ]
   }
 })
