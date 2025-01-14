@@ -46,4 +46,3 @@ features:
     </nav>
   </div>
 </footer>
-

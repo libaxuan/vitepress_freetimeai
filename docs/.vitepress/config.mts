@@ -17,22 +17,25 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
       { text: '教程', link: '/tutorial' },
       { text: '定价', link: '/pricing' },
-      { text: '联系我', link: '/contact' }
-    ],
+      { text: '联系我', link: '/contact' },
+      { text: '语言', items: [
+        { text: '中文', link: '/' },
+        { text: 'English', link: '/en/' }
 
+      ]}
+    ],
     sidebar: [
       {
-        text: 'Examples',
+        text: '示例',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'API 示例', link: '/api-examples' },
+          { text: '教程', link: '/tutorial' }
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/libaxuan/vitepress_freetimeai' }
     ]
