@@ -5,7 +5,7 @@ export default defineConfig({
   title: "FreeTimeAI",
   description: "A VitePress Site For FreeTimeAI",
   head: [
-    ['link', { rel: 'icon', href: 'https://globalai.chat/source/face-with-monocle.webp', type: 'image/webp' }],
+    ['link', { rel: 'icon', href: 'https://nav.globalnextai.cn/source/face-with-monocle.webp', type: 'image/webp' }],
     ['script', { type: 'text/javascript' }, `
       (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
