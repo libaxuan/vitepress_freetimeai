@@ -7,7 +7,7 @@
 
 ## 项目截图
 
-![项目截图](https://musictops.eu.org/file/1736757763105_20250113163909.jpg)
+![项目截图](https://musictops.eu.org/file/1749542014551_freehome.jpg)
 
 ## 项目特点
 
