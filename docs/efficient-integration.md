@@ -10,7 +10,7 @@ hero:
       text: 返回首页
       link: /
 ---
-![自定义角色模版](https://pic.globalai.us.kg/2024/11/c22249aeaab47076f3e6b92c79b3b9cc.png)
+![自定义角色模版](https://pic.musictops.eu.org/2024/11/c22249aeaab47076f3e6b92c79b3b9cc.png)
 
 ---
 

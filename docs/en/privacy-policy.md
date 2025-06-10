@@ -23,12 +23,12 @@ Types of data we collect.
 
 How we use the collected data. We promise not to disclose your personal information to third parties, and all data is used only to improve service quality and optimize user experience.
 
-## Google Analytics Integration
+## Microsoft Clarity Analytics Integration
 
-We have integrated Google Analytics to optimize copywriting and enhance user experience. Through Google Analytics, we can process and analyze data more efficiently, providing more accurate services. Specifically, Google Analytics helps us:
+We have integrated Microsoft Clarity Analytics tool to optimize user experience and website performance. Through Clarity, we are able to:
 
-- **Improve Data Processing Efficiency**: Reduce manual intervention through automated tools, improving data processing speed.
-- **Enhance Data Analysis Capabilities**: Use advanced algorithms and models to deeply explore the value behind the data.
-- **Optimize User Experience**: Continuously improve product functions and user interfaces based on data analysis results.
+- **Understand user behavior**: Visualize how users interact with the website through heatmaps, session replays, and other features.
+- **Identify user experience issues**: Help us discover potential usability problems and areas for improvement.
+- **Optimize content and layout**: Continuously optimize website content and page layout based on user behavior data to provide a more intuitive and efficient browsing experience.
 
-Through these improvements, we are committed to providing you with better services and more secure privacy protection. 
+All collected data will be used for anonymous analysis to improve service quality and ensure your personal information is protected. For more privacy information about Microsoft Clarity, please refer to its official [Privacy Statement](https://clarity.microsoft.com/terms). 

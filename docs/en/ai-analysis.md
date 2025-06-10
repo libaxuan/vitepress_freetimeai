@@ -11,7 +11,7 @@ hero:
       link: /en/
 ---
 
-![AI Smart Q&A](https://pic.globalai.us.kg/2024/11/190f02077988a884263027284080a178.png)
+![AI Smart Q&A](https://pic.musictops.eu.org/2024/11/190f02077988a884263027284080a178.png)
 
 ---
 

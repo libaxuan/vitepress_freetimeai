@@ -10,7 +10,7 @@ hero:
       text: Back to Home
       link: /en/
 ---
-![Custom Role Templates](https://pic.globalai.us.kg/2024/11/c22249aeaab47076f3e6b92c79b3b9cc.png)
+![Custom Role Templates](https://pic.musictops.eu.org/2024/11/c22249aeaab47076f3e6b92c79b3b9cc.png)
 
 ---
 

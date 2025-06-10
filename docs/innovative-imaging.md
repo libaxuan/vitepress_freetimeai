@@ -17,7 +17,7 @@ hero:
 <footer>
   <div class="footer-content">
     <nav>
-      <a href="/">Home</a>
+      <a href="https://autoais.eu.org">Home</a>
       <a href="/about">About</a>
       <a href="/business">Business</a>
       <a href="/privacy-policy">Privacy Policy</a>

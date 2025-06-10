@@ -15,7 +15,7 @@ hero:
 - **Yellowface AI**: [https://yellowfaceai.cn](https://yellowfaceai.cn) (Register with email, supports QQ/163, etc.)
 
 ### Conversation Example
-![AI Smart Q&A](https://pic.globalai.us.kg/2024/11/190f02077988a884263027284080a178.png)
+![AI Smart Q&A](https://pic.musictops.eu.org/2024/11/190f02077988a884263027284080a178.png)
 
 ### Drawing Support
 

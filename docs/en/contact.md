@@ -11,7 +11,7 @@ hero:
       link: /en/
 ---
 ![At Your Service](https://musictops.eu.org/file/1736752668901_ced665f5-8636-4c2b-a28d-9816b51d71aa_0.png)
-<a href="mailto:freetimeai@globalapi.us.kg">Click to send 📧 contact us</a>
+<a href="mailto:peter@bettergpt.eu.org">Click to send 📧 contact us</a>
 ---
 
 <footer>

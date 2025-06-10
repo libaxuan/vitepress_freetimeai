@@ -11,7 +11,7 @@ hero:
       link: /
 ---
 ![为您服务](https://musictops.eu.org/file/1736752668901_ced665f5-8636-4c2b-a28d-9816b51d71aa_0.png)
-<a href="mailto:freetimeai@globalapi.us.kg">点击发送📧联系我</a>
+<a href="mailto:peter@bettergpt.eu.org">点击发送📧联系我</a>
 ---
 
 <footer>
