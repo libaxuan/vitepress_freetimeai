@@ -3,7 +3,7 @@
 欢迎来到 **FreeTimeAI** 项目！这是一个基于 VitePress 构建的企业官网，旨在提供高质量的 AI 服务。您可以轻松地使用 Vercel 部署此项目。
 
 ## 项目链接
-[访问官网](https://home.globalai.us.kg/)
+[访问官网](https://freetimeai.gptnav.eu.org)
 
 ## 项目截图
 
@@ -34,31 +34,33 @@ cd vitepress_freetimeai
 ### 安装依赖
 
 ```bash
-npm install
+yarn install
 ```
 
 ### 启动开发服务器
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ### 构建项目
 
 ```bash
-npm run build
+yarn build
 ```
 
 ### 预览构建
 
 ```bash
-npm run docs:preview
+yarn docs:preview
 ```
 
 ### 部署到 Vercel
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/libaxuan/vitepress_freetimeai)
+
 1. 登录 Vercel 账户。
-2. 点击“新建项目”并选择此 GitHub 仓库。
+2. 点击"新建项目"并选择此 GitHub 仓库。
 3. 根据提示完成部署。
 
 ## 包含的脚本
@@ -89,5 +91,5 @@ npm run docs:preview
 
 如有任何问题或建议，请通过以下方式与我们联系：
 
-- 邮箱: freetimeai@globalapi.us.kg
+- 邮箱: peter@bettergpt.eu.org
 - 微信公众号: [FreeTimeAI]
