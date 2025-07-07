@@ -9,9 +9,9 @@ export default defineConfig({
       title: "FreeTimeAI",
       description: "A VitePress Site For FreeTimeAI",
       head: [
-        ['link', { rel: 'icon', href: 'https://nav.globalnextai.cn/source/face-with-monocle.webp', type: 'image/webp' }],
+        ['link', { rel: 'icon', href: 'https://musictops.eu.org/file/face-with-monocle.webp', type: 'image/webp' }],
         ['meta', { name: 'keywords', content: 'FreeTimeAI, AI, 人工智能, 智能分析, 高效集成, 创新影像, 个性化支持' }],
-        ['meta', { property: 'og:image', content: 'https://nav.globalnextai.cn/source/face-with-monocle.webp' }],
+        ['meta', { property: 'og:image', content: 'https://musictops.eu.org/file/face-with-monocle.webp' }],
         ['script', { src: '/clarity.js', async: '', defer: '' }]
       ],
       themeConfig: {
@@ -67,9 +67,9 @@ export default defineConfig({
       title: "FreeTimeAI",
       description: "A VitePress Site For FreeTimeAI",
       head: [
-        ['link', { rel: 'icon', href: 'https://nav.globalnextai.cn/source/face-with-monocle.webp', type: 'image/webp' }],
+        ['link', { rel: 'icon', href: 'https://musictops.eu.org/file/face-with-monocle.webp', type: 'image/webp' }],
         ['meta', { name: 'keywords', content: 'FreeTimeAI, AI, Artificial Intelligence, Intelligent Analysis, Efficient Integration, Innovative Imaging, Personalized Support' }],
-        ['meta', { property: 'og:image', content: 'https://nav.globalnextai.cn/source/face-with-monocle.webp' }],
+        ['meta', { property: 'og:image', content: 'https://musictops.eu.org/file/face-with-monocle.webp' }],
         ['script', { src: '/clarity.js', async: '', defer: '' }]
       ],
       themeConfig: {
