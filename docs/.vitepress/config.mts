@@ -12,7 +12,7 @@ export default defineConfig({
         ['link', { rel: 'icon', href: 'https://nav.globalnextai.cn/source/face-with-monocle.webp', type: 'image/webp' }],
         ['meta', { name: 'keywords', content: 'FreeTimeAI, AI, 人工智能, 智能分析, 高效集成, 创新影像, 个性化支持' }],
         ['meta', { property: 'og:image', content: 'https://nav.globalnextai.cn/source/face-with-monocle.webp' }],
-        ['script', { src: '/.vitepress/theme/clarity.js', async: '', defer: '' }]
+        ['script', { src: '/clarity.js', async: '', defer: '' }]
       ],
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -70,7 +70,7 @@ export default defineConfig({
         ['link', { rel: 'icon', href: 'https://nav.globalnextai.cn/source/face-with-monocle.webp', type: 'image/webp' }],
         ['meta', { name: 'keywords', content: 'FreeTimeAI, AI, Artificial Intelligence, Intelligent Analysis, Efficient Integration, Innovative Imaging, Personalized Support' }],
         ['meta', { property: 'og:image', content: 'https://nav.globalnextai.cn/source/face-with-monocle.webp' }],
-        ['script', { src: '/.vitepress/theme/clarity.js', async: '', defer: '' }]
+        ['script', { src: '/clarity.js', async: '', defer: '' }]
       ],
       themeConfig: {
         nav: [
